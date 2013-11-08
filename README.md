@@ -44,8 +44,6 @@ func handler(w http.ResponseWriter, r *http.Request) {
 
 ```
 
-## Ideal Usage ##
-
 ## Differences ##
 
 How is this different from ant0ine/go-json-rest? This doesn't:
