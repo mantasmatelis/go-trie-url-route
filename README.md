@@ -4,7 +4,7 @@ A very efficient and minimal HTTP Go router, using a Trie data structure for eff
 
 Based on https://github.com/ant0ine/go-json-rest with the kitchen-sink philosophy stuff removed (so much that I wouldn't particularly consider it a fork).
 
-It aims to be the innermost handler in a composition of handlers. It doesn't require methods to have http.HandlerFunc signature, as route paths are interface{}. (See example.go for usage details.)
+It aims to be the innermost handler in a composition of handlers. It doesn't require methods to have http.HandlerFunc signature, as route paths are interface{}.
 
 ## Install ##
 
